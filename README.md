@@ -10,6 +10,7 @@ ckpt  ->  pb  <->  tflite  ->  kmodel
 
 
 # Directory Structure
+get_nncase.sh           !!!Please run it to init toolbox
 ckpt2pb.py 		 
 gen_ckpt_graph.py       gen graph, view via tensorboard
 gen_pb_graph.py  
